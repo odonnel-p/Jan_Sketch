@@ -1,0 +1,29 @@
+body {
+	background: #ccc;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 22px;
+}
+
+.container {
+	height: 800px;
+	width: 1300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.canvas {
+	background: #fff;
+	height: 725px;
+	width: 100%;
+}
+
+.link {
+  stroke: orange;
+}
+
+.node {
+  stroke: blue;
+}
